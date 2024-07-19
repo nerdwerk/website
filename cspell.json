@@ -3,7 +3,15 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": ["headlessui", "nuxt", "nuxtjs", "vue", "vueuse"],
+    "words": [
+        "headlessui",
+        "nerdwerk",
+        "norican",
+        "nuxt",
+        "nuxtjs",
+        "vue",
+        "vueuse"
+    ],
     "ignoreWords": [],
     "import": []
 }

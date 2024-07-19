@@ -12,4 +12,6 @@ export default defineNuxtConfig({
     vue: {
         propsDestructure: true,
     },
+
+    css: ['assets/styles/norican.css', 'assets/styles/main.css'],
 });
